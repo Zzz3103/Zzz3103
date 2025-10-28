@@ -35,7 +35,6 @@ Striving to bridge AI research with DevOps practices to deploy intelligent syste
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,express,flask,fastapi,postgres,mongodb,docker,git,html,css,react,pytorch,sklearn" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
 </p>
 
 ### 🌍 Let's Connect
