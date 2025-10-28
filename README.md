@@ -15,13 +15,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a **developer** who enjoys building web applications, exploring data systems, and creating clean, efficient solutions.  
-Currently learning more about **backend architecture**, **data engineering**, and **system design**.
-
-- 🔭 Working on: personal web projects & backend microservices  
-- 🌱 Learning: Kafka, PostgreSQL, and scalable architectures  
-- 💬 Ask me about: Node.js, TypeScript, Docker  
-- ⚡ Fun fact: I love combining design with logic  
+Final-year AI Engineering student passionate about combining AI with backend engineering to build practical, scalable systems.  
+Hands-on experience in computer vision, RAG-based chatbots, and backend development.  
+Striving to bridge AI research with DevOps practices to deploy intelligent systems efficiently.
 
 ---
 
@@ -38,19 +34,8 @@ Currently learning more about **backend architecture**, **data engineering**, an
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mongodb,docker,git,html,css,react" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,express,flask,fastapi,postgres,mongodb,neo4j,docker,git,html,css,react,pytorch,sklearn" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zzz3103&show_icons=true&theme=tokyonight" alt="Minh's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zzz3103&theme=tokyonight" height="165" />
-</p>
-
----
 
 ### 🌍 Let's Connect
 
